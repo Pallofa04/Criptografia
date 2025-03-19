@@ -6,7 +6,7 @@ def text_to_hex(text):
     return [hex(ord(c)) for c in text]
 
 ## Exercici 1 - Pots escollir quin text utilitzar
-text_original = "Arnau Garriga To"  # Canvia això per "Albert Mohammed" o qualsevol altre text
+text_original = "Arnau Pol"
 nom_xifrat = ['32', '43', 'f6', 'a8', '88', '5a', '30', '8d', '31', '31', '98', 'a2', 'e0', '37', '07', '34']
 
 #exemple de les slides
